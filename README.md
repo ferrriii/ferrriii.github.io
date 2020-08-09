@@ -37,6 +37,7 @@ an mobile app for practicing relaxing breath to reduce anxiety or help people ge
 
 ### InfoLearn [backend](https://github.com/ferrriii/infolearn-backend) & [frontend](https://github.com/ferrriii/infolearn-frontend)
 <img alt="preview badge" src="https://img.shields.io/github/issues/ferrriii/infolearn-backend?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/forks/ferrriii/infolearn-backend?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/stars/ferrriii/infolearn-backend?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/license/ferrriii/infolearn-backend?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/languages/top/ferrriii/infolearn-backend?style=flat-square">
+
 <img alt="preview badge" src="https://img.shields.io/github/issues/ferrriii/infolearn-frontend?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/forks/ferrriii/infolearn-frontend?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/stars/ferrriii/infolearn-frontend?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/license/ferrriii/infolearn-frontend?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/languages/top/ferrriii/infolearn-frontend?style=flat-square">
 
 InfoLearn is a social network for learning. You can publish short texts and InfoLearn repeats these texts for you to memorize them.
