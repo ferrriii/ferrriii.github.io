@@ -30,6 +30,7 @@ a simple js library for generating Bitcoin paper wallet
 <img alt="preview badge" src="https://img.shields.io/github/issues/ferrriii/breath-4-7-8?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/forks/ferrriii/breath-4-7-8?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/stars/ferrriii/breath-4-7-8?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/license/ferrriii/breath-4-7-8?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/languages/top/ferrriii/breath-4-7-8?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/downloads/ferrriii/breath-4-7-8/latest/total?style=flat-square">
 
 an mobile app for practicing relaxing breath to reduce anxiety or help people get to sleep.
+
 [Download APK](https://github.com/ferrriii/breath-4-7-8/releases/download/v1.0.1/breath478.apk)
 
 ![](https://github.com/ferrriii/breath-4-7-8/raw/master/resources/demo.gif)
