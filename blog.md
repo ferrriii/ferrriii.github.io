@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: My Blog
+permalink: /:path/:basename
 ---
 <ul>
   {% for post in site.posts %}
