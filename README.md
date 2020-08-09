@@ -43,4 +43,4 @@ an mobile app for practicing relaxing breath to reduce anxiety or help people ge
 
 InfoLearn is a social network for learning. You can publish short texts and InfoLearn repeats these texts for you to memorize them.
 
-![](https://github.com/ferrriii/infolearn-frontend/blob/master/resources/infolearn-demo.gif)
+![](https://github.com/ferrriii/infolearn-frontend/raw/master/resources/infolearn-demo.gif)
