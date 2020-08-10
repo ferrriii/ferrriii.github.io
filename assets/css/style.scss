@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+.center {
+  display: flex;
+  justify-content: center;
+}
