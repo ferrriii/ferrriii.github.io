@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Say Hi
+title: Say Hi !
 permalink: /:path/:basename
 ---
 <div class="center">
