@@ -44,3 +44,11 @@ an mobile app for practicing relaxing breath to reduce anxiety or help people ge
 InfoLearn is a social network for learning. You can publish short texts and InfoLearn repeats these texts for you to memorize them.
 
 ![](https://github.com/ferrriii/infolearn-frontend/raw/master/resources/infolearn-demo.gif)
+
+
+### [Jakilid](https://github.com/ferrriii/Jakilid)
+<img alt="preview badge" src="https://img.shields.io/github/issues/ferrriii/Jakilid?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/forks/ferrriii/Jakilid?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/stars/ferrriii/Jakilid?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/license/ferrriii/Jakilid?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/languages/top/ferrriii/Jakilid?style=flat-square">
+
+a encrypted file based password manager
+
+![](https://raw.githubusercontent.com/ferrriii/Jakilid/raw/master/resource/jakilid-demo.gif)
