@@ -51,4 +51,4 @@ InfoLearn is a social network for learning. You can publish short texts and Info
 
 a encrypted file based password manager
 
-![](https://raw.githubusercontent.com/ferrriii/Jakilid/raw/master/resource/jakilid-demo.gif)
+![](https://raw.githubusercontent.com/ferrriii/Jakilid/master/resource/jakilid-demo.gif)
