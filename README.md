@@ -49,6 +49,6 @@ InfoLearn is a social network for learning. You can publish short texts and Info
 ### [Jakilid](https://github.com/ferrriii/Jakilid)
 <img alt="preview badge" src="https://img.shields.io/github/issues/ferrriii/Jakilid?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/forks/ferrriii/Jakilid?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/stars/ferrriii/Jakilid?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/license/ferrriii/Jakilid?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/languages/top/ferrriii/Jakilid?style=flat-square">
 
-a encrypted file based password manager
+an encrypted file based password manager
 
 ![](https://raw.githubusercontent.com/ferrriii/Jakilid/master/resource/jakilid-demo.gif)
