@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 permalink: pretty
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:title
