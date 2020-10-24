@@ -1,5 +1,5 @@
 ---
-title: test-doc
+title: document
 ---
 
 # hi
