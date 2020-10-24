@@ -1,5 +1,5 @@
 ---
-title: document
+slug: document
 ---
 
 # hi
