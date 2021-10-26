@@ -63,3 +63,8 @@ a small binary search function independent of container in js
 <img alt="preview badge" src="https://img.shields.io/github/issues/ferrriii/JekylPlugins?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/forks/ferrriii/JekylPlugins?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/stars/ferrriii/JekylPlugins?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/license/ferrriii/JekylPlugins?style=flat-square"> <img alt="preview badge" src="https://img.shields.io/github/languages/top/ferrriii/JekylPlugins?style=flat-square">
 
 Few plugins for the Jekyl static site builder.
+
+### [JsonSearch](https://github.com/ferrriii/JsonSearch)
+<img alt="downloads" src="https://img.shields.io/npm/dt/search-array?style=flat-square"> <img alt="version" src="https://img.shields.io/npm/v/search-array?style=flat-square"> <img alt="issues" src="https://img.shields.io/github/issues/ferrriii/JsonSearch?style=flat-square"> <img alt="package size" src="https://img.shields.io/bundlephobia/minzip/search-array?style=flat-square"> <img alt="forks" src="https://img.shields.io/github/forks/ferrriii/JsonSearch?style=flat-square"> <img alt="stars" src="https://img.shields.io/github/stars/ferrriii/JsonSearch?style=flat-square"> <img alt="license" src="https://img.shields.io/github/license/ferrriii/JsonSearch?style=flat-square"> <img alt="programming language" src="https://img.shields.io/github/languages/top/ferrriii/JsonSearch?style=flat-square"> <img alt="test status" src="https://img.shields.io/github/workflow/status/ferrriii/JsonSearch/test?label=test&style=flat-square">
+
+Easy and lightweight search library for finding items inside an array of objects
