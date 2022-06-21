@@ -7,7 +7,7 @@ You can find some of my open source projects in the following. Your contribution
 </p>
 
 
-### [text-copy](https://github.com/ferrriii/text-copy)
+### [text-copy](https://github.com/ferrriii/text-copy) [![view on npm](assets/img/npm.svg)]([link to your URL](https://www.npmjs.com/package/text-copy))
 <img alt="downloads" src="https://img.shields.io/npm/dt/text-copy?style=flat-square"> <img alt="version" src="https://img.shields.io/npm/v/text-copy?style=flat-square"> <img alt="issues" src="https://img.shields.io/github/issues/ferrriii/text-copy?style=flat-square"> <img alt="package size" src="https://img.shields.io/bundlephobia/minzip/text-copy?style=flat-square"> <img alt="forks" src="https://img.shields.io/github/forks/ferrriii/text-copy?style=flat-square"> <img alt="stars" src="https://img.shields.io/github/stars/ferrriii/text-copy?style=flat-square"> <img alt="license" src="https://img.shields.io/github/license/ferrriii/text-copy?style=flat-square"> <img alt="programming language" src="https://img.shields.io/github/languages/top/ferrriii/text-copy?style=flat-square">
 
 a small js library ( <img alt="preview badge" src="https://img.shields.io/bundlephobia/minzip/text-copy?style=flat-square"> ) for copying text to clipboard.
